@@ -6,8 +6,6 @@ Mapping disabled parking spaces throughout Europe and bringing them together on 
 
 Founded by [Klaas Schoute][klaas]
 
----
-
 ## [Hacktoberfest 2022][hacktoberfest]
 
 Would you like to help NIPKaart during this event? Check out this [blog post][nipkaart-blog] to see if there's a task you'd like to contribute to.
